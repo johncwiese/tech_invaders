@@ -1,6 +1,6 @@
 # Tech Invaders
 
-A game reminicent of Spave Invaders utilizing the big three logos for the aliens.
+A game reminicent of Space Invaders utilizing the big three logos for the aliens.
 
 ## Getting Started
 
