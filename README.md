@@ -1,10 +1,10 @@
 # Tech Invaders
 
-A game reminicent of Space Invaders utilizing the big three logos for the aliens.
+A sample game reminicent of Space Invaders utilizing the big three logos for the aliens and modified to support running spanned on a dual-screens device like the Surface Duo.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a sample Flutter game built with the Flame minimalist game engine.
 
 A few resources to get you started if this is your first Flutter project:
 
